@@ -1,6 +1,6 @@
 # React My Read Project
 
-![image](./Screenshot.PNG)
+![image](./Screenshot.png)
 
 ## TAble of contents
 
