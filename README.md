@@ -19,8 +19,8 @@
 
 ### Links
  
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/ZArrowZ/react-myread-project
+- Live Site URL: https://ecstatic-neumann-e4c95c.netlify.app/
 
 ## My process
 
